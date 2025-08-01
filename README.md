@@ -31,13 +31,20 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vaishnavitandekar&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=vaishnavitandekar&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vaishnavitandekar&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=vaishnavitandekar&theme=tokyonight&hide_border=true" />
+</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavitandekar&layout=compact&theme=tokyonight&hide_border=true" height="180" />
 </p>
+
+---
+
+## 🧠 Contribution Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vaishnavitandekar&theme=tokyo-night&hide_border=true)
 
 ---
 
